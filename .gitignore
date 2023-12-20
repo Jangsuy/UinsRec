@@ -1,0 +1,11 @@
+*.npz
+*.pickle
+*.csv
+*.npy
+*.ipynb
+*.pyc
+*.yaml
+parameters/
+data/
+__pycache__/
+.ipynb_checkpoints/
